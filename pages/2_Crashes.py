@@ -76,7 +76,7 @@ st.write("Scroll down for more Visualizations")
 @st.cache_data
 def load_data():
     # Replace with the path to your dataset
-    data = pd.read_csv('/Users/mugilant/Documents/Axe Hacks/Plane Crashes.csv')
+    data = pd.read_csv('/Users/prakathesh/Downloads/AirSafe-Analytics-Delays-Crashes/Plane Crashes.csv')
     return data
 
 df = load_data()
@@ -86,7 +86,7 @@ with st.expander("📜 View Dataset (Click to Expand)", expanded=False):
 
 
 
-df, available_year_groups = load_and_process_data('/Users/mugilant/Documents/Axe Hacks/Plane Crashes.csv')
+df, available_year_groups = load_and_process_data('/Users/prakathesh/Downloads/AirSafe-Analytics-Delays-Crashes/Plane Crashes.csv')
 
 # User selection of 20-year period
 
