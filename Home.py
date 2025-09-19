@@ -45,7 +45,7 @@ def show_gif_with_text(gif_path, display_time=3):
     placeholder.empty()
 
 # Show the animated loading screen
-show_gif_with_text("/Users/prakathesh/Downloads/AirSafe-Analytics-Delays-Crashes/planeTransparent.gif", display_time=3)
+show_gif_with_text("planeTransparent.gif", display_time=3)
 
 # Cache dataset loading
 @st.cache_data
