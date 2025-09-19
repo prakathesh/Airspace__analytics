@@ -78,13 +78,11 @@ Users can navigate through different sections to analyze trends in **delays, cra
 st.markdown("### 👨‍💻 Our Team")
 st.markdown("""
 - [**Mugilan Thiyagarajan**](https://www.linkedin.com/in/mugilan-t-598a2b208/)  
-- [**Prakathesh KS**](http://www.linkedin.com/in/prakathesh-k-s-5a43a5183)  
-- [**Asvitha Vibeeshanan**](https://www.linkedin.com/in/asvitha-vibeeshanan-566479185/)  
-- [**Kalai Arasi**](http://www.linkedin.com/in/kalaiarasijayakumar99)  
+- [**Prakathesh KS**](http://www.linkedin.com/in/prakathesh-k-s-5a43a5183)    
 """, unsafe_allow_html=True)
 
 # GitHub Link
 st.markdown("""
 ### 🔗 Project GitHub Repository  
-Click [here](https://github.com/your-repo-link) to view the code and contribute!
+Click [here](https://github.com/prakathesh/Airspace__analytics) to view the code and contribute!
 """)
