@@ -76,7 +76,7 @@ st.write("Scroll down for more Visualizations")
 @st.cache_data
 def load_data():
     # Replace with the path to your dataset
-    data = pd.read_csv('/Users/prakathesh/Downloads/AirSafe-Analytics-Delays-Crashes/Plane Crashes.csv')
+    data = pd.read_csv("Plane Crashes.csv")
     return data
 
 df = load_data()
