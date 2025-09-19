@@ -86,7 +86,7 @@ with st.expander("📜 View Dataset (Click to Expand)", expanded=False):
 
 
 
-df, available_year_groups = load_and_process_data('/Users/prakathesh/Downloads/AirSafe-Analytics-Delays-Crashes/Plane Crashes.csv')
+df, available_year_groups = load_and_process_data("Plane Crashes.csv")
 
 # User selection of 20-year period
 
