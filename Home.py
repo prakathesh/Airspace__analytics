@@ -77,8 +77,8 @@ Users can navigate through different sections to analyze trends in **delays, cra
 # Group Information with LinkedIn Links
 st.markdown("### 👨‍💻 Our Team")
 st.markdown("""
-- [**Mugilan Thiyagarajan**](https://www.linkedin.com/in/mugilan-t-598a2b208/)  
-- [**Prakathesh KS**](http://www.linkedin.com/in/prakathesh-k-s-5a43a5183)    
+- [**Prakathesh KS**](http://www.linkedin.com/in/prakathesh-k-s-5a43a5183)
+- [**Mugilan Thiyagarajan**](https://www.linkedin.com/in/mugilan-t-598a2b208/)     
 """, unsafe_allow_html=True)
 
 # GitHub Link
